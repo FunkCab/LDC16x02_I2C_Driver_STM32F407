@@ -1,0 +1,13 @@
+build-gen-idx:
+  generated-by: uVision version 5.42.0.0
+  generators:
+    - board: 
+      device: STM32F407VGTx
+      id: CubeMX
+      output: C:/projects/LDC16x02_I2C_Driver_STM32F407/STM32F407_I2C_LCD16x02_Example/STM32CubeMX/Target 1/
+      project-type: single-core
+      cbuild-gens:
+        - cbuild-gen: C:/projects/LDC16x02_I2C_Driver_STM32F407/STM32F407_I2C_LCD16x02_Example/STM32F407_I2C_LCD16x02_Example.Target 1.cbuild-gen.yml
+          configuration: .Target 1
+          name: C:/projects/LDC16x02_I2C_Driver_STM32F407/STM32F407_I2C_LCD16x02_Example/STM32CubeMX/Target 1/STM32F407_I2C_LCD16x02_Example.cgen.yml
+          project: STM32F407_I2C_LCD16x02_Example

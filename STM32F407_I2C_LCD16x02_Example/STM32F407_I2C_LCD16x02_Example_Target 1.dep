@@ -1,0 +1,9 @@
+Dependencies for Project 'STM32F407_I2C_LCD16x02_Example', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6230000::V6.23::ARMCLANG
+F (.\main.c)(0x680150D2)()
+F (.\STM32F407_I2C_LCD16x02_Driver.c)(0x68012D86)()
+F (.\STM32F407_I2C_LCD16x02_Driver.h)(0x68012D86)()
+F (RTE/Device/STM32F407VGTx/RTE_Device.h)(0x68012D86)()
+F (RTE/Device/STM32F407VGTx/startup_stm32f407xx.s)(0x68012D86)()
+F (RTE/Device/STM32F407VGTx/stm32f4xx_hal_conf.h)(0x68012D86)()
+F (RTE/Device/STM32F407VGTx/system_stm32f4xx.c)(0x68012D86)()
